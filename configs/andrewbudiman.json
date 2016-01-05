@@ -1,0 +1,5 @@
+{
+    "template-name-pattern": "TEMPLATE - Week %(number)d",
+    "weeks-per-schedule": 4,
+    "generated-name-pattern": "[CURRENT] %(year)d (%(group)s%(number)d): %(month_start)d/%(day_start)d - %(month_end)d/%(day_end)d"
+}
